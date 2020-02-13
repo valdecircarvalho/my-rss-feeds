@@ -6,5 +6,5 @@ Today my main feed reader is Feedly.
 Here you will find my RSS OPM files from the sources I use.
 Feel free to send a PR or open a issue with your suggestion.
 
-+ VMware vExpert Brasil 2019 - Current VMware vExperts from Brazil. Most blogs are in Brazilian Portuguese
++ [VMware vExpert Brasil 2019](vExpert-Brasil-2019.opml) - Current VMware vExperts from Brazil. Most blogs are in Brazilian Portuguese
 
