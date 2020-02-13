@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Homelaber subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Must Read" title="Must Read">
+            <outline type="rss" text="Blog Homelaber Brasil" title="Blog Homelaber Brasil" xmlUrl="https://homelaber.com.br/index.xml" htmlUrl="https://homelaber.com.br/"/>
+        </outline>
+        <outline text="vExpert Brasil - 2020" title="vExpert Brasil - 2020">
+            <outline type="rss" text="Data Mondo" title="Data Mondo" xmlUrl="https://datamondo.wordpress.com/feed/" htmlUrl="https://datamondo.wordpress.com"/>
+            <outline type="rss" text="Tarsio Moraes" title="Tarsio Moraes" xmlUrl="http://tarsiomoraes.com.br/pt/feed/" htmlUrl="http://tarsiomoraes.com.br"/>
+            <outline type="rss" text="Ivanildo Galvão" title="Ivanildo Galvão" xmlUrl="http://www.ivanildogalvao.com.br/feed" htmlUrl="http://www.ivanildogalvao.com.br"/>
+            <outline type="rss" text="Nathan Pinotti" title="Nathan Pinotti" xmlUrl="http://www.nathanpinotti.com.br/feed/" htmlUrl="http://www.nathanpinotti.com.br"/>
+            <outline type="rss" text="Virtualized4u" title="Virtualized4u" xmlUrl="https://virtualized4u.com.br/feed/" htmlUrl="https://virtualized4u.com.br"/>
+            <outline type="rss" text="MVP Alexandro Prado [Windows and Devices for IT]" title="MVP Alexandro Prado [Windows and Devices for IT]" xmlUrl="http://alexandroprado.wordpress.com/feed/" htmlUrl="https://alexandroprado.wordpress.com"/>
+            <outline type="rss" text="Explain IT" title="Explain IT" xmlUrl="https://explainit.com.br/feed/" htmlUrl="https://explainit.com.br"/>
+            <outline type="rss" text="Virtual Guri » Feed" title="Virtual Guri » Feed" xmlUrl="http://virtualguri.com.br/feed/" htmlUrl="http://virtualguri.com.br"/>
+            <outline type="rss" text="IT 4 Friends" title="IT 4 Friends" xmlUrl="https://it4friends.com.br/feed/" htmlUrl="https://it4friends.com.br"/>
+            <outline type="rss" text="Feed para VIRTUALIZANDOAJU »" title="Feed para VIRTUALIZANDOAJU »" xmlUrl="https://virtualizandoajublog.com/feed/" htmlUrl="https://virtualizandoajublog.com"/>
+            <outline type="rss" text="Arles Sant Ana" title="Arles Sant Ana" xmlUrl="http://www.arles-santana.com.br/feed/" htmlUrl="http://www.arles-santana.com.br"/>
+            <outline type="rss" text="rafaelfelipe" title="rafaelfelipe" xmlUrl="https://www.rafaelfelipe.com/feed.xml" htmlUrl="https://www.rafaelfelipe.com/inicio"/>
+            <outline type="rss" text="IT PRO LAND" title="IT PRO LAND" xmlUrl="https://itproland.com.br/feed/" htmlUrl="https://itproland.com.br"/>
+            <outline type="rss" text="The EUC Blog » Feed" title="The EUC Blog » Feed" xmlUrl="https://valcesia.com/feed/" htmlUrl="https://valcesia.com"/>
+            <outline type="rss" text="RODRIGO LIRA" title="RODRIGO LIRA" xmlUrl="https://rodrigolira.eti.br/feed/" htmlUrl="https://rodrigolira.eti.br"/>
+            <outline type="rss" text="xenappblog" title="xenappblog" xmlUrl="http://www.xenappblog.com/feed/" htmlUrl="https://xenappblog.com"/>
+            <outline type="rss" text="Simplified IT » Feed" title="Simplified IT » Feed" xmlUrl="http://www.itby3.com/feed/" htmlUrl="http://www.itby3.com"/>
+            <outline type="rss" text="Solutions4Crowds" title="Solutions4Crowds" xmlUrl="http://solutions4crowds.com.br/feed/" htmlUrl="https://solutions4crowds.com.br"/>
+            <outline type="rss" text="TI Simplificada" title="TI Simplificada" xmlUrl="http://www.itby3.com.br/feed/" htmlUrl="http://www.itby3.com.br"/>
+            <outline type="rss" text="Blog Homelaber Brasil" title="Blog Homelaber Brasil" xmlUrl="https://homelaber.com.br/index.xml" htmlUrl="https://homelaber.com.br/"/>
+            <outline type="rss" text="Do It Yourself" title="Do It Yourself" xmlUrl="https://diyvirtualization.com/feed/" htmlUrl="https://diyvirtualization.com"/>
+            <outline type="rss" text="Cisco Redes" title="Cisco Redes" xmlUrl="http://ciscoredes.com.br/feed/" htmlUrl="https://ciscoredes.com.br"/>
+            <outline type="rss" text="SandroCaiado.com" title="SandroCaiado.com" xmlUrl="http://sandrocaiado.com/?feed=rss2" htmlUrl="http://sandrocaiado.com"/>
+            <outline type="rss" text="VMNET BRASIL" title="VMNET BRASIL" xmlUrl="http://vmnetbrasil.com.br/index.php/feed/" htmlUrl="http://vmnetbrasil.com.br"/>
+            <outline type="rss" text="Blog itHarley" title="Blog itHarley" xmlUrl="https://itharley.com/feed/" htmlUrl="https://itharley.com"/>
+            <outline type="rss" text="Samuel Nunes" title="Samuel Nunes" xmlUrl="http://www.eucbrasil.com/feeds/posts/default?alt=rss" htmlUrl="http://www.eucbrasil.com/"/>
+            <outline type="rss" text="Blog da Pláttano Technologies" title="Blog da Pláttano Technologies" xmlUrl="http://blog.plattano.com.br/index.php/feed/" htmlUrl="http://blog.plattano.com.br"/>
+            <outline type="rss" text="Just Another IT blog" title="Just Another IT blog" xmlUrl="http://www.justait.net/feeds/posts/default" htmlUrl="http://www.justait.net/"/>
+        </outline>
+    </body>
+</opml>
