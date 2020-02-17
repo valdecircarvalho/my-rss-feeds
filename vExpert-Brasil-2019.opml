@@ -37,6 +37,8 @@
             <outline type="rss" text="Samuel Nunes" title="Samuel Nunes" xmlUrl="http://www.eucbrasil.com/feeds/posts/default?alt=rss" htmlUrl="http://www.eucbrasil.com/"/>
             <outline type="rss" text="Blog da Pláttano Technologies" title="Blog da Pláttano Technologies" xmlUrl="http://blog.plattano.com.br/index.php/feed/" htmlUrl="http://blog.plattano.com.br"/>
             <outline type="rss" text="Just Another IT blog" title="Just Another IT blog" xmlUrl="http://www.justait.net/feeds/posts/default" htmlUrl="http://www.justait.net/"/>
+			<outline type="rss" text="Blog Homelaber Brasil" title="Blog Homelaber Brasil" xmlUrl="https://homelaber.com.br/index.xml" htmlUrl="https://homelaber.com.br/"/>
+
         </outline>
     </body>
 </opml>

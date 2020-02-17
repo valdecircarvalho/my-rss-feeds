@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<body>
+		<outline text="Subscriptions" title="Subscriptions">
+<outline xmlUrl='https://blog.scottlowe.org/rss' />
+<outline xmlUrl='https://www.ntpro.nl/blog/rss' />
+<outline xmlUrl='https://vinfrastructure.it/rss' />
+<outline xmlUrl='https://vmguru.com/rss' />
+<outline xmlUrl='https://www.rorymon.com/blog/rss' />
+<outline xmlUrl='https://www.vladan.fr/rss' />
+<outline xmlUrl='https://www.ivobeerens.nl/rss' />
+<outline xmlUrl='http://www.yellow-bricks.com/rss' />
+<outline xmlUrl='https://nolabnoparty.com/en/rss' />
+<outline xmlUrl='http://www.virtualizationteam.com/rss' />
+<outline xmlUrl='http://www.vmwarearena.com/rss' />
+<outline xmlUrl='http://www.vstellar.com/rss' />
+<outline xmlUrl='https://www.derekseaman.com/rss' />
+<outline xmlUrl='https://www.wojcieh.net/rss' />
+<outline xmlUrl='https://www.provirtualzone.com/rss' />
+<outline xmlUrl='https://fojta.wordpress.com/rss' />
+<outline xmlUrl='https://www.penguinpunk.net/blog/rss' />
+<outline xmlUrl='https://www.teimouri.net/rss' />
+<outline xmlUrl='https://paulgrevink.wordpress.com/rss' />
+<outline xmlUrl='https://vmwareaddicted.blogspot.com/rss' />
+<outline xmlUrl='https://planet.virt-tools.org/rss' />
+<outline xmlUrl='https://shuttletitan.com/rss' />
+<outline xmlUrl='https://www.adventuresinpowercli.com/rss' />
+<outline xmlUrl='https://blog.scharwies.net/rss' />
+<outline xmlUrl='http://virtualremote.net/blogpost/rss' />
+<outline xmlUrl='https://ithinkvirtual.com/rss' />
+<outline xmlUrl='http://www.vcloudnotes.com/rss' />
+<outline xmlUrl='https://www.astroarch.com/blog/rss' />
+	
+		</outline>
+	</body>
+</opml>
