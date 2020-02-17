@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Homelaber subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="VMware - Industry Solutions" title="VMware - Industry Solutions">
+            <outline type="rss" text="Healthcare – VMware Industry Solutions" title="Healthcare – VMware Industry Solutions" xmlUrl="https://blogs.vmware.com/industry-solutions/healthcare/feed" htmlUrl="https://blogs.vmware.com/industry-solutions"/>
+            <outline type="rss" text="VMware Industry Solutions" title="VMware Industry Solutions" xmlUrl="http://feeds.feedburner.com/vmware/industry-solutions" htmlUrl="https://blogs.vmware.com/industry-solutions"/>
+            <outline type="rss" text="Financial Services – VMware Industry Solutions" title="Financial Services – VMware Industry Solutions" xmlUrl="http://feeds.feedburner.com/FinancialServicesVmwareIndustrySolutions" htmlUrl="https://blogs.vmware.com/industry-solutions"/>
+            <outline type="rss" text="Retail – VMware Industry Solutions" title="Retail – VMware Industry Solutions" xmlUrl="http://feeds.feedburner.com/RetailVmwareIndustrySolutions" htmlUrl="https://blogs.vmware.com/industry-solutions"/>
+            <outline type="rss" text="Education – VMware Industry Solutions" title="Education – VMware Industry Solutions" xmlUrl="https://blogs.vmware.com/industry-solutions/education/feed/" htmlUrl="https://blogs.vmware.com/industry-solutions"/>
+            <outline type="rss" text="Government – VMware Industry Solutions" title="Government – VMware Industry Solutions" xmlUrl="http://feeds.feedburner.com/GovernmentVmwareIndustrySolutions" htmlUrl="https://blogs.vmware.com/industry-solutions"/>
+            <outline type="rss" text="Telco – VMware Industry Solutions" title="Telco – VMware Industry Solutions" xmlUrl="http://feeds.feedburner.com/TelcoVmwareIndustrySolutions" htmlUrl="https://blogs.vmware.com/industry-solutions"/>
+        </outline>
+        <outline text="Vmware - Partners" title="Vmware - Partners">
+            <outline type="rss" text="VMware Tech Alliance Partners (TAP) Blog" title="VMware Tech Alliance Partners (TAP) Blog" xmlUrl="http://blogs.vmware.com/tap/rss.xml" htmlUrl="https://blogs.vmware.com/tap"/>
+            <outline type="rss" text="Power of Partnership" title="Power of Partnership" xmlUrl="https://blogs.vmware.com/partner/rss.xml" htmlUrl="https://blogs.vmware.com/partner"/>
+            <outline type="rss" text="Partner News" title="Partner News" xmlUrl="https://blogs.vmware.com/partnernews/feed" htmlUrl="https://blogs.vmware.com/partnernews"/>
+        </outline>
+        <outline text="VMware - SDDC &amp; Cloud" title="VMware - SDDC &amp; Cloud">
+            <outline type="rss" text="VMware Cloud Community" title="VMware Cloud Community" xmlUrl="https://cloud.vmware.com/community/feed/" htmlUrl="https://cloud.vmware.com/community"/>
+            <outline type="rss" text="vCloud Architecture Toolkit (vCAT) Blog" title="vCloud Architecture Toolkit (vCAT) Blog" xmlUrl="https://blogs.vmware.com/vcat/feed" htmlUrl="https://blogs.vmware.com/vcat"/>
+            <outline type="rss" text="OpenStack Blog for VMware" title="OpenStack Blog for VMware" xmlUrl="https://blogs.vmware.com/openstack/feed/" htmlUrl="https://blogs.vmware.com/openstack"/>
+            <outline type="rss" text="Security &amp; Compliance Blog" title="Security &amp; Compliance Blog" xmlUrl="https://blogs.vmware.com/security/rss.xml" htmlUrl="https://blogs.vmware.com/security"/>
+            <outline type="rss" text="VMware PowerCLI Blog" title="VMware PowerCLI Blog" xmlUrl="https://blogs.vmware.com/powercli/feed" htmlUrl="https://blogs.vmware.com/PowerCLI"/>
+            <outline type="rss" text="VMware VROOM! Blog" title="VMware VROOM! Blog" xmlUrl="https://blogs.vmware.com/performance/rss.xml" htmlUrl="https://blogs.vmware.com/performance"/>
+            <outline type="rss" text="VMware Cloud Provider Blog" title="VMware Cloud Provider Blog" xmlUrl="https://blogs.vmware.com/vcloud/feed" htmlUrl="https://blogs.vmware.com/cloudprovider"/>
+            <outline type="rss" text="Network Virtualization" title="Network Virtualization" xmlUrl="https://blogs.vmware.com/networkvirtualization/feed" htmlUrl="https://blogs.vmware.com/networkvirtualization"/>
+            <outline type="rss" text="Virtualize Applications" title="Virtualize Applications" xmlUrl="http://blogs.vmware.com/apps/rss.xml" htmlUrl="https://blogs.vmware.com/apps"/>
+            <outline type="rss" text="VeloCloud by VMware" title="VeloCloud by VMware" xmlUrl="https://blogs.vmware.com/velocloud/feed/" htmlUrl="https://blogs.vmware.com/velocloud"/>
+            <outline type="rss" text="VMware vSphere Blog" title="VMware vSphere Blog" xmlUrl="https://blogs.vmware.com/vsphere/feed" htmlUrl="https://blogs.vmware.com/vsphere"/>
+            <outline type="rss" text="VMware Cloud Management" title="VMware Cloud Management" xmlUrl="https://blogs.vmware.com/management/feed" htmlUrl="https://blogs.vmware.com/management"/>
+            <outline type="rss" text="Virtual Blocks" title="Virtual Blocks" xmlUrl="https://blogs.vmware.com/virtualblocks/feed" htmlUrl="https://blogs.vmware.com/virtualblocks"/>
+            <outline type="rss" text="Cloud Native Apps Blog" title="Cloud Native Apps Blog" xmlUrl="https://blogs.vmware.com/cloudnative/feed" htmlUrl="https://blogs.vmware.com/cloudnative"/>
+            <outline type="rss" text="Cloud Foundation" title="Cloud Foundation" xmlUrl="https://blogs.vmware.com/cloud-foundation/feed" htmlUrl="https://blogs.vmware.com/cloud-foundation"/>
+        </outline>
+        <outline text="Must Read" title="Must Read"/>
+        <outline text="VMware - Education &amp; Consulting" title="VMware - Education &amp; Consulting">
+            <outline type="rss" text="Tech Communications Video Blog" title="Tech Communications Video Blog" xmlUrl="http://blogs.vmware.com/techpubs/rss.xml" htmlUrl="https://blogs.vmware.com/techpubs"/>
+            <outline type="rss" text="VMware Professional Services" title="VMware Professional Services" xmlUrl="http://blogs.vmware.com/services-education-insights/feed" htmlUrl="https://blogs.vmware.com/services-education-insights"/>
+            <outline type="rss" text="VMware Hands-On Lab (HOL) Blog" title="VMware Hands-On Lab (HOL) Blog" xmlUrl="https://blogs.vmware.com/hol/feed" htmlUrl="https://blogs.vmware.com/hol"/>
+            <outline type="rss" text="VMware Education Services" title="VMware Education Services" xmlUrl="https://blogs.vmware.com/education/feed" htmlUrl="https://blogs.vmware.com/education"/>
+        </outline>
+        <outline text="VMware - Latin America (LATAM)" title="VMware - Latin America (LATAM)">
+            <outline type="rss" text="Blog VMware Latinoamérica" title="Blog VMware Latinoamérica" xmlUrl="https://blogs.vmware.com/latam/feed/" htmlUrl="https://blogs.vmware.com/latam"/>
+            <outline type="rss" text="AirWatch Latin America Blog" title="AirWatch Latin America Blog" xmlUrl="http://blogs.air-watch.com/latam/feed/" htmlUrl="http://blogs.air-watch.com/latam"/>
+            <outline type="rss" text="Blog VMware Brasil" title="Blog VMware Brasil" xmlUrl="https://blogs.vmware.com/brasil/feed/" htmlUrl="https://blogs.vmware.com/brasil"/>
+        </outline>
+        <outline text="Vmware - Asia Pacific (APJ)" title="Vmware - Asia Pacific (APJ)">
+            <outline type="rss" text="VMware Japan Education Blog" title="VMware Japan Education Blog" xmlUrl="https://blogs.vmware.com/jp-education/feed/" htmlUrl="https://blogs.vmware.com/jp-education"/>
+            <outline type="rss" text="Japan Cloud Infrastructure Blog" title="Japan Cloud Infrastructure Blog" xmlUrl="https://blogs.vmware.com/jp-cim/feed" htmlUrl="https://blogs.vmware.com/jp-cim"/>
+            <outline type="rss" text="Japan End-User Computing Blog" title="Japan End-User Computing Blog" xmlUrl="https://blogs.vmware.com/jp-euc/feed" htmlUrl="https://blogs.vmware.com/jp-euc"/>
+            <outline type="rss" text="VMware 繁體中文部落格" title="VMware 繁體中文部落格" xmlUrl="https://blogs.vmware.com/vmware-taiwan/feed" htmlUrl="https://blogs.vmware.com/vmware-taiwan"/>
+            <outline type="rss" text="VMware 中文博客" title="VMware 中文博客" xmlUrl="https://blogs.vmware.com/china/feed" htmlUrl="https://blogs.vmware.com/china"/>
+        </outline>
+        <outline text="VMware - Europe/ME/Africa (EMEA" title="VMware - Europe/ME/Africa (EMEA">
+            <outline type="rss" text="VMware EMEA Blog" title="VMware EMEA Blog" xmlUrl="https://blogs.vmware.com/emea/be/feed/" htmlUrl="https://blogs.vmware.com/emea"/>
+            <outline type="rss" text="VMware EMEA Blog" title="VMware EMEA Blog" xmlUrl="https://blogs.vmware.com/emea/es/feed/" htmlUrl="https://blogs.vmware.com/emea"/>
+            <outline type="rss" text="VMware EMEA Blog" title="VMware EMEA Blog" xmlUrl="https://blogs.vmware.com/emea/af/feed/" htmlUrl="https://blogs.vmware.com/emea"/>
+            <outline type="rss" text="VMware EMEA Blog" title="VMware EMEA Blog" xmlUrl="https://blogs.vmware.com/emea/sv/feed/" htmlUrl="https://blogs.vmware.com/emea"/>
+            <outline type="rss" text="VMware Norway" title="VMware Norway" xmlUrl="http://vmwareemeablog.com/no/feed/" htmlUrl="http://vmwareemeablog.com/no"/>
+            <outline type="rss" text="VMware EMEA Blog" title="VMware EMEA Blog" xmlUrl="https://blogs.vmware.com/emea/fr/feed/" htmlUrl="https://blogs.vmware.com/emea"/>
+            <outline type="rss" text="VMware EMEA Blog" title="VMware EMEA Blog" xmlUrl="https://blogs.vmware.com/emea/en/feed/" htmlUrl="https://blogs.vmware.com/emea"/>
+            <outline type="rss" text="VMware EMEA Blog" title="VMware EMEA Blog" xmlUrl="https://blogs.vmware.com/emea/ru/feed/" htmlUrl="https://blogs.vmware.com/emea"/>
+            <outline type="rss" text="VMware EMEA Blog" title="VMware EMEA Blog" xmlUrl="https://blogs.vmware.com/emea/it/feed/" htmlUrl="https://blogs.vmware.com/emea"/>
+            <outline type="rss" text="VMware EMEA Blog" title="VMware EMEA Blog" xmlUrl="https://blogs.vmware.com/emea/tr/feed/" htmlUrl="https://blogs.vmware.com/emea"/>
+            <outline type="rss" text="VMware EMEA Blog" title="VMware EMEA Blog" xmlUrl="https://blogs.vmware.com/emea/ar/feed/" htmlUrl="https://blogs.vmware.com/emea"/>
+            <outline type="rss" text="VMware EMEA Blog" title="VMware EMEA Blog" xmlUrl="https://blogs.vmware.com/emea/de/feed/" htmlUrl="https://blogs.vmware.com/emea"/>
+            <outline type="rss" text="VMware EMEA Blog" title="VMware EMEA Blog" xmlUrl="https://blogs.vmware.com/emea/he/feed/" htmlUrl="https://blogs.vmware.com/emea"/>
+            <outline type="rss" text="VMware EMEA Blog" title="VMware EMEA Blog" xmlUrl="https://blogs.vmware.com/emea/da/feed/" htmlUrl="https://blogs.vmware.com/emea"/>
+            <outline type="rss" text="VMware EMEA Blog" title="VMware EMEA Blog" xmlUrl="https://blogs.vmware.com/emea/pl/feed/" htmlUrl="https://blogs.vmware.com/emea"/>
+            <outline type="rss" text="VMware EMEA Blog" title="VMware EMEA Blog" xmlUrl="https://blogs.vmware.com/emea/nl/feed/" htmlUrl="https://blogs.vmware.com/emea"/>
+        </outline>
+        <outline text="VMware - End-User Computing" title="VMware - End-User Computing">
+            <outline type="rss" text="AirWatch Blog" title="AirWatch Blog" xmlUrl="http://blogs.air-watch.com/feed/" htmlUrl="https://blogs.air-watch.com"/>
+            <outline type="rss" text="VMware Workstation Zealot" title="VMware Workstation Zealot" xmlUrl="http://feeds.feedburner.com/vmwareWorkstationZealotBlog" htmlUrl="https://blogs.vmware.com/workstation"/>
+            <outline type="rss" text="VMware Fusion Blog" title="VMware Fusion Blog" xmlUrl="https://blogs.vmware.com/teamfusion/feed" htmlUrl="https://blogs.vmware.com/teamfusion"/>
+            <outline type="rss" text="VMware End-User Computing Blog" title="VMware End-User Computing Blog" xmlUrl="http://blogs.vmware.com/euc/feed" htmlUrl="https://blogs.vmware.com/euc"/>
+        </outline>
+        <outline text="VMware - Company" title="VMware - Company">
+            <outline type="rss" text="VMware Open Source Blog" title="VMware Open Source Blog" xmlUrl="http://blogs.vmware.com/opensource/feed" htmlUrl="https://blogs.vmware.com/opensource"/>
+            <outline type="rss" text="VMware on VMware" title="VMware on VMware" xmlUrl="https://blogs.vmware.com/vov/feed/" htmlUrl="https://blogs.vmware.com/vov"/>
+            <outline type="rss" text="VMware Radius" title="VMware Radius" xmlUrl="https://www.vmware.com/radius/feed/" htmlUrl="https://www.vmware.com/radius"/>
+            <outline type="rss" text="VMware Careers" title="VMware Careers" xmlUrl="http://blogs.vmware.com/careers/rss.xml" htmlUrl="https://blogs.vmware.com/careers"/>
+            <outline type="rss" text="VMware CIO Exchange" title="VMware CIO Exchange" xmlUrl="http://blogs.vmware.com/cio/feed" htmlUrl="https://blogs.vmware.com/cio"/>
+            <outline type="rss" text="VMTN Blog" title="VMTN Blog" xmlUrl="http://blogs.vmware.com/vmtn/rss.xml" htmlUrl="https://blogs.vmware.com/vmtn"/>
+            <outline type="rss" text="Virtual Reality" title="Virtual Reality" xmlUrl="http://blogs.vmware.com/virtualreality/rss.xml" htmlUrl="https://blogs.vmware.com/virtualreality"/>
+            <outline type="rss" text="VMware Research" title="VMware Research" xmlUrl="http://blogs.vmware.com/research/feed/" htmlUrl="https://blogs.vmware.com/research"/>
+            <outline type="rss" text="Edge and IoT" title="Edge and IoT" xmlUrl="https://blogs.vmware.com/edge/feed/" htmlUrl="https://blogs.vmware.com/edge"/>
+            <outline type="rss" text="VMware | OCTO Blog" title="VMware | OCTO Blog" xmlUrl="https://cto.vmware.com/feed/" htmlUrl="https://octo.vmware.com"/>
+            <outline type="rss" text="VMware {code}" title="VMware {code}" xmlUrl="https://blogs.vmware.com/code/feed/" htmlUrl="https://blogs.vmware.com/code"/>
+            <outline type="rss" text="VMworld Blog" title="VMworld Blog" xmlUrl="http://blogs.vmware.com/vmworld/feed" htmlUrl="https://blogs.vmware.com/vmworld"/>
+            <outline type="rss" text="vExpert – VMTN Blog" title="vExpert – VMTN Blog" xmlUrl="https://blogs.vmware.com/vmtn/vexpert/feed/" htmlUrl="https://blogs.vmware.com/vmtn"/>
+            <outline type="rss" text="Security &amp; Compliance Blog" title="Security &amp; Compliance Blog" xmlUrl="https://blogs.vmware.com/vmwaresecurity/feed/" htmlUrl="https://blogs.vmware.com/security"/>
+        </outline>
+        <outline text="VMware - Support" title="VMware - Support">
+            <outline type="rss" text="VMware Support Insider" title="VMware Support Insider" xmlUrl="https://blogs.vmware.com/kbdigest/feed" htmlUrl="https://blogs.vmware.com/kb"/>
+            <outline type="rss" text="Guest OS Install Guide" title="Guest OS Install Guide" xmlUrl="https://blogs.vmware.com/guestosguide/rss.xml" htmlUrl="https://blogs.vmware.com/guestosguide"/>
+        </outline>
+        <outline text="VMware" title="VMware">
+            <outline type="rss" text="VMware - All Blogs" title="VMware - All Blogs" xmlUrl="http://blogs.vmware.com/all-vmware-blogs/wprss" htmlUrl="https://blogs.vmware.com"/>
+            <outline type="rss" text="VMware - Blog Beat" title="VMware - Blog Beat" xmlUrl="https://blogs.vmware.com/wprss" htmlUrl="https://blogs.vmware.com"/>
+        </outline>
+    </body>
+</opml>
