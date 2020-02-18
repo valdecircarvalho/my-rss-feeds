@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Homelaber subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Must Read" title="Must Read"/>
+        <outline text="VMware vExperts" title="VMware vExperts">
+            <outline type="rss" text="MindMelt" title="MindMelt" xmlUrl="https://mindmelt.nl/mindmelt.nl/feed/" htmlUrl="https://mindmelt.nl/mindmelt.nl"/>
+            <outline type="rss" text="rudimartinsen.com" title="rudimartinsen.com" xmlUrl="https://www.rudimartinsen.com/feed/" htmlUrl="https://www.rudimartinsen.com"/>
+            <outline type="rss" text="Virtual Tassie" title="Virtual Tassie" xmlUrl="https://virtualtassie.com/feed/" htmlUrl="https://virtualtassie.com"/>
+            <outline type="rss" text="SOFTWARE DEFINED BLOG" title="SOFTWARE DEFINED BLOG" xmlUrl="https://www.softwaredefinedblog.com/index.php/feed/" htmlUrl="https://www.softwaredefinedblog.com"/>
+            <outline type="rss" text="Virtualise Me" title="Virtualise Me" xmlUrl="http://www.virtualiseme.net.au/index.php/feed/" htmlUrl="https://www.virtualiseme.net.au"/>
+            <outline type="rss" text="vVadster.net" title="vVadster.net" xmlUrl="http://vvadster.net/feed/" htmlUrl="http://vvadster.net"/>
+            <outline type="rss" text="dutchvblog" title="dutchvblog" xmlUrl="http://www.dutchvblog.com/rss" htmlUrl="http://www.dutchvblog.com"/>
+            <outline type="rss" text="Davoud Teimouri – Virtualization and Data Center" title="Davoud Teimouri – Virtualization and Data Center" xmlUrl="https://www.teimouri.net/feed" htmlUrl="https://www.teimouri.net"/>
+            <outline type="rss" text="eigenmagic" title="eigenmagic" xmlUrl="https://www.eigenmagic.com/feed" htmlUrl="https://www.eigenmagic.com"/>
+            <outline type="rss" text="&quot;Всё, что нажито непосильным трудом&quot;" title="&quot;Всё, что нажито непосильным трудом&quot;" xmlUrl="https://as.zabedu.ru/feed/" htmlUrl="https://as.zabedu.ru"/>
+            <outline type="rss" text="Funky Cloud Medina" title="Funky Cloud Medina" xmlUrl="https://www.funkycloudmedina.com/index.xml" htmlUrl="https://www.funkycloudmedina.com/"/>
+            <outline type="rss" text="Virtual Bits &amp; Bytes" title="Virtual Bits &amp; Bytes" xmlUrl="http://foonet.be/feed/" htmlUrl="https://foonet.be"/>
+            <outline type="rss" text="Steven Kang" title="Steven Kang" xmlUrl="http://ssbkang.com/feed" htmlUrl="https://ssbkang.com"/>
+            <outline type="rss" text="VMarena" title="VMarena" xmlUrl="http://vmarena.com/feed/" htmlUrl="https://vmarena.com"/>
+            <outline type="rss" text="Be-Virtual.net" title="Be-Virtual.net" xmlUrl="https://be-virtual.net/feed/" htmlUrl="https://be-virtual.net"/>
+            <outline type="rss" xmlUrl="https://www.tayfundeger.com/feed" htmlUrl="https://www.tayfundeger.com"/>
+            <outline type="rss" text="JanHos Tech blog" title="JanHos Tech blog" xmlUrl="https://www.janhos.be/feed/" htmlUrl="https://www.janhos.be"/>
+            <outline type="rss" text="xenappblog" title="xenappblog" xmlUrl="https://xenappblog.com/feed" htmlUrl="https://xenappblog.com"/>
+            <outline type="rss" text="VMdaemon" title="VMdaemon" xmlUrl="http://vmdaemon.com/?feed=rss2" htmlUrl="http://www.vmdaemon.com"/>
+            <outline type="rss" text="Virtual Lifestyle | The virtualization blog by Joep Piscaer" title="Virtual Lifestyle | The virtualization blog by Joep Piscaer" xmlUrl="https://www.virtuallifestyle.nl/feed" htmlUrl="https://www.virtuallifestyle.nl"/>
+            <outline type="rss" text="Login TechCast" title="Login TechCast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:397027704/sounds.rss" htmlUrl="https://www.loginconsultants.com/nl/podcast"/>
+            <outline type="rss" text="Virtualization Team" title="Virtualization Team" xmlUrl="http://Virtualizationteam.com/rss" htmlUrl="http://www.virtualizationteam.com"/>
+            <outline type="rss" text="VMGU.ru - технологии виртуализации и виртуальные машины" title="VMGU.ru - технологии виртуализации и виртуальные машины" xmlUrl="http://feeds.feedburner.com/Vmguru" htmlUrl="http://www.vmgu.ru"/>
+            <outline type="rss" text="The Odd Angry Shot on The Odd Angry Shot" title="The Odd Angry Shot on The Odd Angry Shot" xmlUrl="http://www.theoddangryshot.com/index.xml" htmlUrl="https://TheOddAngryShot.com/"/>
+            <outline type="rss" text="CloudHat.eu" title="CloudHat.eu" xmlUrl="https://cloudhat.eu/feed/" htmlUrl="https://cloudhat.eu"/>
+            <outline type="rss" text="JediMT" title="JediMT" xmlUrl="http://www.jedimt.com/feed" htmlUrl="http://www.jedimt.com"/>
+            <outline type="rss" text="Copy Data Tips" title="Copy Data Tips" xmlUrl="https://copydata.tips/feed/" htmlUrl="https://copydata.tips"/>
+            <outline type="rss" text="Arles Sant Ana" title="Arles Sant Ana" xmlUrl="http://www.arles-santana.com.br/feed/" htmlUrl="http://www.arles-santana.com.br"/>
+            <outline type="rss" text="Retouw.nl" title="Retouw.nl" xmlUrl="http://www.retouw.nl/feed/" htmlUrl="https://www.retouw.nl"/>
+            <outline type="rss" text="PenguinPunk.net" title="PenguinPunk.net" xmlUrl="https://www.penguinpunk.net/blog/feed/" htmlUrl="https://www.penguinpunk.net/blog"/>
+            <outline type="rss" text="IT PRO LAND" title="IT PRO LAND" xmlUrl="https://itproland.com.br/feed/" htmlUrl="https://itproland.com.br"/>
+            <outline type="rss" text="Zero To Hero" title="Zero To Hero" xmlUrl="https://vzerotohero.com/feed/" htmlUrl="https://vzerotohero.com"/>
+            <outline type="rss" text="ivobeerens.nl" title="ivobeerens.nl" xmlUrl="http://feeds.feedburner.com/virtualief" htmlUrl="https://www.ivobeerens.nl"/>
+            <outline type="rss" text="Cloud-Land" title="Cloud-Land" xmlUrl="http://cloud-land.com/feed/" htmlUrl="http://cloud-land.com"/>
+            <outline type="rss" text="Blog – Designing Risk in IT Infrastructure" title="Blog – Designing Risk in IT Infrastructure" xmlUrl="https://www.designingrisk.com/blog/rss" htmlUrl="https://designingrisk.com"/>
+            <outline type="rss" text="Lostdomain" title="Lostdomain" xmlUrl="https://lostdomain.org/feed/" htmlUrl="https://lostdomain.org"/>
+            <outline type="rss" text="Demitasse" title="Demitasse" xmlUrl="http://demitasse.co.nz/feed/" htmlUrl="http://demitasse.co.nz"/>
+            <outline type="rss" text="Aktualności - Virtual-IT - Wirtualizacja, cloud computing, green-it, storage, data center" title="Aktualności - Virtual-IT - Wirtualizacja, cloud computing, green-it, storage, data center" xmlUrl="http://feeds.feedburner.com/virtual-it" htmlUrl="http://www.virtual-it.pl/"/>
+            <outline type="rss" text="vNotions" title="vNotions" xmlUrl="http://feeds.feedburner.com/vnotions" htmlUrl="http://www.vnotions.com"/>
+            <outline type="rss" text="blog.ukotic.net" title="blog.ukotic.net" xmlUrl="http://blog.ukotic.net/feed/" htmlUrl="https://blog.ukotic.net"/>
+            <outline type="rss" text="SafeKom Blog" title="SafeKom Blog" xmlUrl="http://www.safekom.pl/blog/feed/" htmlUrl="https://www.safekom.pl/blog"/>
+            <outline type="rss" text="IVANDEMES" title="IVANDEMES" xmlUrl="https://www.ivandemes.com/feed/" htmlUrl="https://www.ivandemes.com"/>
+            <outline type="rss" text="Simplified IT" title="Simplified IT" xmlUrl="http://www.itby3.com/feed/" htmlUrl="http://www.itby3.com"/>
+            <outline type="rss" text="Enterprise Cloud Computing Blog" title="Enterprise Cloud Computing Blog" xmlUrl="http://feeds.feedburner.com/rhpware" htmlUrl="https://www.rhpware.com/"/>
+            <outline type="rss" text="VMware by Lukasz Zasko" title="VMware by Lukasz Zasko" xmlUrl="https://lzasko.home.blog/feed.xml" htmlUrl="https://lzasko.home.blog"/>
+            <outline type="rss" text="Marius Sandbu" title="Marius Sandbu" xmlUrl="https://msandbu.org/feed/" htmlUrl="https://msandbu.org"/>
+            <outline type="rss" text="Diabolikss" title="Diabolikss" xmlUrl="http://www.diabolikss.com/feed/" htmlUrl="http://www.diabolikss.com"/>
+            <outline type="rss" text="VMFS6.COM" title="VMFS6.COM" xmlUrl="https://vmfs6.com/feed/" htmlUrl="https://vmfs6.com"/>
+            <outline type="rss" text="The Fluffy Admin" title="The Fluffy Admin" xmlUrl="http://feeds2.feedburner.com/TheFluffyAdmin" htmlUrl="http://thefluffyadmin.net"/>
+            <outline type="rss" text="RODRIGO LIRA" title="RODRIGO LIRA" xmlUrl="http://rodrigolira.eti.br/feed/" htmlUrl="https://rodrigolira.eti.br"/>
+            <outline type="rss" text="Nuvoli Systems" title="Nuvoli Systems" xmlUrl="http://www.nuvolisystems.com/feed/" htmlUrl="http://www.nuvolisystems.com"/>
+            <outline type="rss" text="VMware – vCloud Vision" title="VMware – vCloud Vision" xmlUrl="https://vcloudvision.com/category/vmware/feed/" htmlUrl="https://vcloudvision.com"/>
+            <outline type="rss" text="vBlogWare @virtuallyBlogging" title="vBlogWare @virtuallyBlogging" xmlUrl="https://vblogware.com/index.php/feed/" htmlUrl="https://vblogware.com"/>
+            <outline type="rss" text="All about virtualization" title="All about virtualization" xmlUrl="http://www.running-system.com/feed/" htmlUrl="http://www.running-system.com"/>
+            <outline type="rss" text="VIRTUALIZATION IS LIFE!" title="VIRTUALIZATION IS LIFE!" xmlUrl="http://anthonyspiteri.net/rss" htmlUrl="https://anthonyspiteri.net"/>
+            <outline type="rss" text="Cisco Redes" title="Cisco Redes" xmlUrl="https://ciscoredes.com.br/feed/" htmlUrl="https://ciscoredes.com.br"/>
+            <outline type="rss" text="vBlog.nl" title="vBlog.nl" xmlUrl="https://www.vblog.nl/feed/" htmlUrl="https://www.vblog.nl"/>
+            <outline type="rss" xmlUrl="http://geeklady.com.br/index.php/feed/" htmlUrl="http://geeklady.com.br"/>
+            <outline type="rss" text="VMware Virtualization Blog" title="VMware Virtualization Blog" xmlUrl="http://www.onurcan.com.tr/feed" htmlUrl="https://www.onurcan.com.tr"/>
+            <outline type="rss" text="Robert van den Nieuwendijk's Blog" title="Robert van den Nieuwendijk's Blog" xmlUrl="https://rvdnieuwendijk.com/feed/" htmlUrl="https://rvdnieuwendijk.com"/>
+            <outline type="rss" text="ITuDA" title="ITuDA" xmlUrl="http://ituda.com/feed/" htmlUrl="https://www.ituda.com"/>
+            <outline type="rss" text="Virtualblog.nl" title="Virtualblog.nl" xmlUrl="https://virtualblog.nl/feed/" htmlUrl="https://virtualblog.nl"/>
+            <outline type="rss" text="plonius" title="plonius" xmlUrl="https://www.plonius.com/feed.xml" htmlUrl="https://www.plonius.com/blog"/>
+            <outline type="rss" text="Joey Ketels – Jketels.nl" title="Joey Ketels – Jketels.nl" xmlUrl="https://jketels.nl/feed" htmlUrl="https://jketels.nl"/>
+            <outline type="rss" text="Making Technology Work for Business" title="Making Technology Work for Business" xmlUrl="https://virtuallysimple.wordpress.com/feed/" htmlUrl="https://virtuallysimple.wordpress.com"/>
+            <outline type="rss" text="Cloud-Duo" title="Cloud-Duo" xmlUrl="https://www.cloud-duo.com/feed" htmlUrl="https://www.cloud-duo.com"/>
+            <outline type="rss" text="#vRA4U Blog – vRealize Automation &amp; vRealize Orchestrator" title="#vRA4U Blog – vRealize Automation &amp; vRealize Orchestrator" xmlUrl="http://vra4u.com/feed.xml" htmlUrl="https://vra4u.com"/>
+            <outline type="rss" text="The EUC-Kiwi Blog" title="The EUC-Kiwi Blog" xmlUrl="http://www.euc-kiwi.com/feed" htmlUrl="http://www.euc-kiwi.com"/>
+            <outline type="rss" text="vNinja.net" title="vNinja.net" xmlUrl="https://vninja.net/index.xml" htmlUrl="https://vninja.net/"/>
+            <outline type="rss" text="CloudXtreme" title="CloudXtreme" xmlUrl="http://www.cloudxtreme.info/feed/" htmlUrl="http://www.cloudxtreme.info"/>
+            <outline type="rss" text="A private cloud – all for myself" title="A private cloud – all for myself" xmlUrl="http://letsdocloud.com/?feed=rss2" htmlUrl="http://letsdocloud.com"/>
+            <outline type="rss" text="Özgür Mazlum" title="Özgür Mazlum" xmlUrl="http://feeds.feedburner.com/ozgurmazlum" htmlUrl="https://www.ozgurmazlum.com"/>
+            <outline type="rss" text="Automated Ramblings" title="Automated Ramblings" xmlUrl="https://sdbrett.com/atom.xml"/>
+            <outline type="rss" text="MaartenCaus EUC Blog" title="MaartenCaus EUC Blog" xmlUrl="https://maartencaus.be/feed/" htmlUrl="https://maartencaus.be"/>
+            <outline type="rss" text="DiscoPosse.com" title="DiscoPosse.com" xmlUrl="http://discoposse.com/feed" htmlUrl="https://discoposse.com"/>
+            <outline type="rss" text="IT AS IS" title="IT AS IS" xmlUrl="http://feeds.feedburner.com/veskin/NFmG" htmlUrl="http://www.veskin.ru/"/>
+            <outline type="rss" text="Gabes Virtual World" title="Gabes Virtual World" xmlUrl="http://feeds.feedburner.com/GabesVirtualWorld" htmlUrl="http://www.gabesvirtualworld.com"/>
+            <outline type="rss" text="Networking &amp; Security" title="Networking &amp; Security" xmlUrl="https://mynetworker.blog/feed.xml" htmlUrl="https://mynetworker.blog"/>
+            <outline type="rss" text="VMman" title="VMman" xmlUrl="http://www.vmman.me/feed/" htmlUrl="http://vmman.me"/>
+            <outline type="rss" text="vBrain.info" title="vBrain.info" xmlUrl="http://www.vbrain.info/feed/" htmlUrl="http://www.vbrain.info"/>
+            <outline type="rss" text="The Bearded Wonder From Down Under" title="The Bearded Wonder From Down Under" xmlUrl="http://blog.tbwfdu.com/feeds/posts/default" htmlUrl="http://blog.tbwfdu.com/"/>
+            <outline type="rss" text="filipv.net" title="filipv.net" xmlUrl="http://filipv.net/feed/" htmlUrl="http://filipv.net"/>
+            <outline type="rss" text="VMwareTV" title="VMwareTV" xmlUrl="https://www.vmwaretv.com/rss.xml" htmlUrl="http://www.vmwaretv.com/"/>
+            <outline type="rss" text="Blog itHarley" title="Blog itHarley" xmlUrl="https://itharley.com/feed/" htmlUrl="https://itharley.com"/>
+            <outline type="rss" text="Cloud Astronaut" title="Cloud Astronaut" xmlUrl="http://www.cloudastronaut.com/feed.xml" htmlUrl="https://cloudastronaut.com"/>
+            <outline type="rss" text="Default Reasoning" title="Default Reasoning" xmlUrl="http://defaultreasoning.com/feed/" htmlUrl="https://defaultreasoning.com"/>
+            <outline type="rss" text="vconfig.pl" title="vconfig.pl" xmlUrl="http://feeds.feedburner.com/maciejlosek" htmlUrl="https://vconfig.pl"/>
+            <outline type="rss" text="myvirtualcloud.net" title="myvirtualcloud.net" xmlUrl="http://feeds.feedburner.com/myvirtualcloudnet" htmlUrl="http://myvirtualcloud.net"/>
+            <outline type="rss" text="Tim Carman" title="Tim Carman" xmlUrl="https://www.timcarman.net/feed/" htmlUrl="https://timcarman.net"/>
+            <outline type="rss" text="Brisk-IT" title="Brisk-IT" xmlUrl="http://www.brisk-it.net/feed/" htmlUrl="https://www.brisk-it.net"/>
+            <outline type="rss" text="vHojan.nl" title="vHojan.nl" xmlUrl="https://vhojan.nl/feed/" htmlUrl="https://vhojan.nl"/>
+            <outline type="rss" text="Homelaber Brasil" title="Homelaber Brasil" xmlUrl="http://homelaber.com.br/feed/" htmlUrl="http://homelaber.com.br"/>
+            <outline type="rss" text="Think©Loud" title="Think©Loud" xmlUrl="http://thinkcloud.nl/feed/" htmlUrl="http://thinkcloud.nl"/>
+            <outline type="rss" text="vSkilled.com" title="vSkilled.com" xmlUrl="https://www.vskilled.com/feed/" htmlUrl="https://www.vskilled.com"/>
+            <outline type="rss" text="Geursen.net" title="Geursen.net" xmlUrl="https://www.geursen.net/feed/" htmlUrl="https://www.geursen.net"/>
+            <outline type="rss" text="vConsultants blog" title="vConsultants blog" xmlUrl="https://blog.vconsultants.be/feed/" htmlUrl="https://blog.vconsultants.be"/>
+            <outline type="rss" text="Przygody z VMware, cloud computingiem i światem IT" title="Przygody z VMware, cloud computingiem i światem IT" xmlUrl="https://www.akademiadatacenter.pl/feed/" htmlUrl="https://akademiadatacenter.pl"/>
+            <outline type="rss" text="Plain Virtualization" title="Plain Virtualization" xmlUrl="http://feeds.feedburner.com/PlainVirtualization" htmlUrl="http://plain-virt.blogspot.com/"/>
+            <outline type="rss" text="Pramod Rane – Cloud &amp; Virtualization" title="Pramod Rane – Cloud &amp; Virtualization" xmlUrl="https://www.pramodrane.com/feed/" htmlUrl="https://www.pramodrane.com"/>
+            <outline type="rss" text="Matt That IT Guy" title="Matt That IT Guy" xmlUrl="http://www.42u.ca/feed/" htmlUrl="https://www.42u.ca"/>
+            <outline type="rss" text="Vxpert" title="Vxpert" xmlUrl="https://www.vxpert.in/feed/" htmlUrl="https://www.vxpert.in"/>
+            <outline type="rss" text="iThinkVirtual™" title="iThinkVirtual™" xmlUrl="https://ithinkvirtual.com/feed/" htmlUrl="https://ithinkvirtual.com"/>
+            <outline type="rss" text="Spas Kaloferov's Blog" title="Spas Kaloferov's Blog" xmlUrl="http://kaloferov.com/blog/feed/" htmlUrl="http://kaloferov.com/blog"/>
+            <outline type="rss" xmlUrl="http://virtuality.pt/?feed=rss2" htmlUrl="http://virtuality.pt"/>
+            <outline type="rss" text="Erik Filippini" title="Erik Filippini" xmlUrl="https://efilippini.com.br/rss" htmlUrl="https://efilippini.com.br"/>
+            <outline type="rss" xmlUrl="http://rutgerblom.com/feed" htmlUrl="https://rutgerblom.com"/>
+            <outline type="rss" text="Think Meta" title="Think Meta" xmlUrl="http://www.thinkmeta.net/feed/" htmlUrl="https://thinkmeta.net"/>
+            <outline type="rss" text="不自量力 の Weithenn" title="不自量力 の Weithenn" xmlUrl="https://www.weithenn.org/feeds/posts/default" htmlUrl="https://www.weithenn.org/"/>
+            <outline type="rss" text="vClouds" title="vClouds" xmlUrl="http://www.vclouds.nl/feed/" htmlUrl="http://www.vclouds.nl"/>
+            <outline type="rss" text="Мир виртуален, наша жизнь нереальна =)" title="Мир виртуален, наша жизнь нереальна =)" xmlUrl="http://vmby.blogspot.com.by/feeds/posts/default?alt=rss" htmlUrl="http://vmby.blogspot.com/"/>
+            <outline type="rss" text="Fatih Şölen | Bilgi Teknolojileri Blogu" title="Fatih Şölen | Bilgi Teknolojileri Blogu" xmlUrl="http://www.fatihsolen.com/feed/" htmlUrl="https://www.fatihsolen.com"/>
+            <outline type="rss" text="Virtual Potholes" title="Virtual Potholes" xmlUrl="http://www.virtualpotholes.com/rss" htmlUrl="https://www.virtualpotholes.com/"/>
+            <outline type="rss" text="Virtualisation" title="Virtualisation" xmlUrl="http://www.codefunda.net/feed/" htmlUrl="http://www.codefunda.net"/>
+            <outline type="rss" text="./Zero.Tin" title="./Zero.Tin" xmlUrl="https://zerotin.org/feed/" htmlUrl="https://zerotin.org"/>
+            <outline type="rss" text="vMind.ru" title="vMind.ru" xmlUrl="http://feeds.feedburner.com/V-mind" htmlUrl="https://vmind.ru"/>
+            <outline type="rss" text="nukescloud" title="nukescloud" xmlUrl="https://www.nukescloud.com/feed.xml" htmlUrl="https://www.nukescloud.com/vrealize-automation"/>
+            <outline type="rss" text="JamesCharter.com Personal Blog &amp; Musings" title="JamesCharter.com Personal Blog &amp; Musings" xmlUrl="http://jamescharter.com/blog?format=rss" htmlUrl="http://www.jamescharter.com/"/>
+            <outline type="rss" text="KiwiCloud.ninja" title="KiwiCloud.ninja" xmlUrl="https://kiwicloud.ninja/feed" htmlUrl="https://kiwicloud.ninja"/>
+            <outline type="rss" text="Untitled RSS Feed" title="Untitled RSS Feed" xmlUrl="https://vxsan.com/rss" htmlUrl="https://vxsan.com/"/>
+            <outline type="rss" text="virtualFrog" title="virtualFrog" xmlUrl="https://virtualfrog.wordpress.com/feed/" htmlUrl="https://virtualfrog.wordpress.com"/>
+            <outline type="rss" text="Logit Blog" title="Logit Blog" xmlUrl="https://www.logitblog.com/feed/" htmlUrl="https://www.logitblog.com"/>
+            <outline type="rss" text="viktorious.nl – Virtualization &amp; Cloud Management" title="viktorious.nl – Virtualization &amp; Cloud Management" xmlUrl="https://www.viktorious.nl/feed/" htmlUrl="https://www.viktorious.nl"/>
+            <outline type="rss" text="mwpreston.net" title="mwpreston.net" xmlUrl="https://blog.mwpreston.net/feed" htmlUrl="https://blog.mwpreston.net"/>
+            <outline type="rss" text="jeffreykusters.nl" title="jeffreykusters.nl" xmlUrl="http://feeds.feedburner.com/jeffreykusters" htmlUrl="https://www.jeffreykusters.nl"/>
+            <outline type="rss" text="The things that are better left unspoken" title="The things that are better left unspoken" xmlUrl="https://dirteam.com/sander/feed" htmlUrl="https://dirteam.com/sander"/>
+            <outline type="rss" text="No Blinky Blinky" title="No Blinky Blinky" xmlUrl="https://blog.noblinkyblinky.com/feed/" htmlUrl="https://blog.noblinkyblinky.com"/>
+            <outline type="rss" text="IT Logs – Kerem ŞUĞLE" title="IT Logs – Kerem ŞUĞLE" xmlUrl="http://www.ksugle.com/feed/" htmlUrl="http://www.ksugle.com"/>
+            <outline type="rss" text="JorTechnologies" title="JorTechnologies" xmlUrl="https://www.jortechnologies.com/feed/" htmlUrl="https://www.jortechnologies.com"/>
+            <outline type="rss" text="VMware VIRTUALIZATION" title="VMware VIRTUALIZATION" xmlUrl="http://www.umitdemirtas.com/feed" htmlUrl="http://www.umitdemirtas.com"/>
+            <outline type="rss" text="Blog – SQLHA" title="Blog – SQLHA" xmlUrl="http://sqlha.com/blog/feed/" htmlUrl="https://sqlha.com"/>
+            <outline type="rss" text="Settlersoman – A settler in the SDDC world." title="Settlersoman – A settler in the SDDC world." xmlUrl="https://www.settlersoman.com/feed" htmlUrl="https://www.settlersoman.com"/>
+            <outline type="rss" text="verbrough" title="verbrough" xmlUrl="https://verbrough.wordpress.com/feed/" htmlUrl="https://verbrough.wordpress.com"/>
+            <outline type="rss" text="Matts Bos" title="Matts Bos" xmlUrl="https://mattsbos.pro/feed/" htmlUrl="https://mattsbos.pro"/>
+            <outline type="rss" text="Blog - oliveirac" title="Blog - oliveirac" xmlUrl="http://oliveirac.com.br/blog?format=rss" htmlUrl="http://oliveirac.com.br/blog/"/>
+            <outline type="rss" text="martijnverheij.nl" title="martijnverheij.nl" xmlUrl="https://www.martijnverheij.nl/feed" htmlUrl="https://www.martijnverheij.nl"/>
+            <outline type="rss" text="#vRA4U Blog – vRealize Automation &amp; vRealize Orchestrator" title="#vRA4U Blog – vRealize Automation &amp; vRealize Orchestrator" xmlUrl="https://vra4u.com/feed/" htmlUrl="https://vra4u.com"/>
+            <outline type="rss" text="The IT Stories" title="The IT Stories" xmlUrl="https://www.technicalfellow.com/feed/" htmlUrl="https://www.technicalfellow.com"/>
+            <outline type="rss" text="RobertVerdam.nl" title="RobertVerdam.nl" xmlUrl="http://www.robertverdam.nl/rss" htmlUrl="https://robertverdam.nl"/>
+            <outline type="rss" text="Eric Sloof - NTPRO.NL" title="Eric Sloof - NTPRO.NL" xmlUrl="http://feeds.feedburner.com/Ntpronl" htmlUrl="https://www.ntpro.nl/blog/"/>
+            <outline type="rss" text="vswitchzero" title="vswitchzero" xmlUrl="https://vswitchzero.com/feed/" htmlUrl="https://vswitchzero.com"/>
+            <outline type="rss" text="T.B.D." title="T.B.D." xmlUrl="https://teebeedee.org/feed/" htmlUrl="https://teebeedee.org"/>
+            <outline type="rss" text="THEAARONSTRONG" title="THEAARONSTRONG" xmlUrl="http://www.theaaronstrong.com/index.php/feed/" htmlUrl="https://theaaronstrong.com"/>
+            <outline type="rss" text="VMpros" title="VMpros" xmlUrl="https://feeds2.feedburner.com/Vmprosnl" htmlUrl="https://blog.vmpros.nl"/>
+            <outline type="rss" text="Notes from MWhite" title="Notes from MWhite" xmlUrl="https://notesfrommwhite.net/feed/" htmlUrl="https://notesfrommwhite.net"/>
+            <outline type="rss" text="Opvizor" title="Opvizor" xmlUrl="http://www.opvizor.com/feed" htmlUrl="https://www.opvizor.com"/>
+            <outline type="rss" text="NielsHagoort.com" title="NielsHagoort.com" xmlUrl="http://www.nielshagoort.com/feed" htmlUrl="https://nielshagoort.com"/>
+            <outline type="rss" text="VMLibrary" title="VMLibrary" xmlUrl="http://vmlibrary.com/rss" htmlUrl="http://vmlibrary.com"/>
+            <outline type="rss" text="vDrone" title="vDrone" xmlUrl="https://vdr.one/feed/" htmlUrl="https://vdr.one"/>
+            <outline type="rss" text="Virtual Stack" title="Virtual Stack" xmlUrl="https://virtualstack.libsyn.com/rss" htmlUrl="http://virtualstack.libsyn.com/website"/>
+            <outline type="rss" text="VMGuru" title="VMGuru" xmlUrl="https://www.vmguru.com/feed/" htmlUrl="https://vmguru.com"/>
+            <outline type="rss" text="Kyle McDonald" title="Kyle McDonald" xmlUrl="https://kylemcdonald.com.au/feed/" htmlUrl="https://kylemcdonald.com.au"/>
+            <outline type="rss" text="The EUC Blog" title="The EUC Blog" xmlUrl="https://valcesia.com/feed.xml" htmlUrl="https://valcesia.com"/>
+            <outline type="rss" text="VDI Like a Pro" title="VDI Like a Pro" xmlUrl="https://vdilikeapro.com/feed/" htmlUrl="https://vdilikeapro.com"/>
+            <outline type="rss" text="Faruk TERZIOGLU" title="Faruk TERZIOGLU" xmlUrl="http://www.farukterzioglu.net/feed/" htmlUrl="http://www.farukterzioglu.net"/>
+            <outline type="rss" text="vMBaggum" title="vMBaggum" xmlUrl="http://www.vmbaggum.nl/feed" htmlUrl="https://www.vmbaggum.nl"/>
+            <outline type="rss" text="blog.vmpress.org" title="blog.vmpress.org" xmlUrl="http://blog.vmpress.org/feeds/posts/default" htmlUrl="http://blog.vmpress.org/"/>
+            <outline type="rss" text="Virtual thoughts" title="Virtual thoughts" xmlUrl="http://alt64.se/?feed=rss2" htmlUrl="https://alt64.se"/>
+            <outline type="rss" text="Adventures in a Virtual World" title="Adventures in a Virtual World" xmlUrl="https://paulgrevink.wordpress.com/feed/" htmlUrl="https://paulgrevink.wordpress.com"/>
+            <outline type="rss" text="Automate-IT.today" title="Automate-IT.today" xmlUrl="http://automate-it.today/feed/" htmlUrl="https://automate-it.today"/>
+            <outline type="rss" text="Remi's Blog" title="Remi's Blog" xmlUrl="https://schipperus.net/feed" htmlUrl="https://schipperus.net"/>
+            <outline type="rss" text="Core four" title="Core four" xmlUrl="http://www.core-four.info/feeds/posts/default" htmlUrl="http://www.core-four.info/"/>
+            <outline type="rss" text="LucD notes" title="LucD notes" xmlUrl="http://feeds.feedburner.com/LucdNotes" htmlUrl="http://www.lucd.info"/>
+            <outline type="rss" text="Just Another IT blog" title="Just Another IT blog" xmlUrl="http://www.justait.net/feeds/posts/default?alt=rss" htmlUrl="http://www.justait.net/"/>
+            <outline type="rss" text="robbeekmans.net" title="robbeekmans.net" xmlUrl="http://robbeekmans.net/feed/" htmlUrl="https://robbeekmans.net"/>
+            <outline type="rss" text="Piszki Lab | EN" title="Piszki Lab | EN" xmlUrl="http://lab.piszki.pl/feed/" htmlUrl="https://lab.piszki.pl"/>
+            <outline type="rss" text="vKARPS" title="vKARPS" xmlUrl="https://vkarps.wordpress.com/feed/" htmlUrl="https://vkarps.wordpress.com"/>
+            <outline type="rss" text="My Virtual Journey" title="My Virtual Journey" xmlUrl="https://www.myvirtualjourney.com/feed" htmlUrl="https://www.myvirtualjourney.com"/>
+            <outline type="rss" xmlUrl="http://vmusketeers.com/?feed=rss" htmlUrl="http://vmusketeers.com"/>
+            <outline type="rss" text="Solutions4Crowds" title="Solutions4Crowds" xmlUrl="http://solutions4crowds.com.br/feed/" htmlUrl="https://solutions4crowds.com.br"/>
+            <outline type="rss" text="www.vExperienced.co.uk" title="www.vExperienced.co.uk" xmlUrl="http://www.vExperienced.co.uk/feed/" htmlUrl="http://www.vexperienced.co.uk"/>
+            <outline type="rss" text="Pascal's Wereld" title="Pascal's Wereld" xmlUrl="https://pascalswereld.nl/feed/" htmlUrl="https://www.pascalswereld.nl"/>
+            <outline type="rss" text="ReadySetVirtual" title="ReadySetVirtual" xmlUrl="https://www.readysetvirtual.com/feed/" htmlUrl="https://www.readysetvirtual.com"/>
+            <outline type="rss" text="Cloud and DevOps Engineer Diaries" title="Cloud and DevOps Engineer Diaries" xmlUrl="http://www.crispyfog.com/feeds/posts/default?alt=rss" htmlUrl="http://www.crispyfog.com/"/>
+            <outline type="rss" text="vRamblings" title="vRamblings" xmlUrl="http://vramblings.com/feed/" htmlUrl="https://vramblings.com"/>
+            <outline type="rss" text="The Virtualist" title="The Virtualist" xmlUrl="https://www.thevirtualist.org/feed/" htmlUrl="https://thevirtualist.org"/>
+            <outline type="rss" text="vNote42" title="vNote42" xmlUrl="https://vnote42.wordpress.com/feed.xml" htmlUrl="https://vnote42.wordpress.com"/>
+            <outline type="rss" text="{{ vExpose }}.Blog" title="{{ vExpose }}.Blog" xmlUrl="https://vexpose.blog/feed/" htmlUrl="https://vexpose.blog"/>
+        </outline>
+    </body>
+</opml>
