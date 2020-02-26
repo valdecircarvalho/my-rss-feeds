@@ -21,6 +21,15 @@ I'm slowly adding more and more OPML files here. Stay tunned!
 + [Oracle Blogs](oracle-blogs.opml) - All Oracle Blogs - [Source](https://blogs.oracle.com/blogdirectory)
 + [VMware Blogs](vmware-blogs.opml) - All VMware Blogs - [Source](https://blogs.vmware.com)
 + [Veeam Vanguards](veeam-vanguard-blogs.opml) - Veeam Vanguards Blogs - [Source](https://www.veeam.com/vanguard.html)
++ [Veeam Blogs](veeam-blogs.opml) - Veeam Blogs
++ [Vmware vExpert]() - VMware vExpert Blogs - WIP
++ [Vendors]() - WIP
++ [AWS Blogs]() - WIP
++ [Azure Blogs]() - WIP
++ [Cloud Native]() - WIP
++ [DevOps]() - WIP
++ [Sysadmin]() - WIP
++ 
 ----
 
 

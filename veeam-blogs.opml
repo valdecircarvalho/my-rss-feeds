@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Homelaber subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Veeam Blogs" title="Veeam Blogs">
+            <outline type="rss" text="Adam the Automator" title="Adam the Automator" xmlUrl="http://www.adamtheautomator.com/feed/" htmlUrl="https://adamtheautomator.com/"/>
+            <outline type="rss" text="vMiss.net" title="vMiss.net" xmlUrl="http://vmiss.net/feed/" htmlUrl="https://vmiss.net"/>
+            <outline type="rss" text="Blog Oficial Veeam – Atualizações sobre Virtualização" title="Blog Oficial Veeam – Atualizações sobre Virtualização" xmlUrl="https://www.veeam.com/blog/pt-br/feed" htmlUrl="https://www.veeam.com/blog/pt-br"/>
+            <outline type="rss" text="Hennings IT Blog » Feed" title="Hennings IT Blog » Feed" xmlUrl="https://henningstell.de/feed/" htmlUrl="https://henningstell.de"/>
+            <outline type="rss" text="Explain IT" title="Explain IT" xmlUrl="https://explainit.com.br/feed/" htmlUrl="https://explainit.com.br"/>
+            <outline type="rss" text="virtualhome.blog" title="virtualhome.blog" xmlUrl="https://www.virtualhome.blog/feed/" htmlUrl="https://www.virtualhome.blog"/>
+            <outline type="rss" text="rhyshammond.com" title="rhyshammond.com" xmlUrl="https://rhyshammond.com/feed/" htmlUrl="https://rhyshammond.com"/>
+            <outline type="rss" text="vZilla" title="vZilla" xmlUrl="https://vzilla.co.uk/feed" htmlUrl="https://vzilla.co.uk"/>
+            <outline type="rss" text="VIRTUALIZATION IS LIFE!" title="VIRTUALIZATION IS LIFE!" xmlUrl="http://anthonyspiteri.net/?feed=rss2" htmlUrl="https://anthonyspiteri.net"/>
+            <outline type="rss" text="Veeam Software Official Blog" title="Veeam Software Official Blog" xmlUrl="http://www.veeam.com/blog/feed" htmlUrl="https://www.veeam.com/blog"/>
+        </outline>
+    </body>
+</opml>
