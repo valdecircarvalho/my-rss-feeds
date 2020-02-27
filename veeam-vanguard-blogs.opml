@@ -5,7 +5,6 @@
         <title>Homelaber subscriptions in feedly Cloud</title>
     </head>
     <body>
-        <outline text="Must Read" title="Must Read"/>
         <outline text="Veeam Vanguard" title="Veeam Vanguard">
             <outline type="rss" text="vINCEPTION" title="vINCEPTION" xmlUrl="https://vinception.fr/feed/" htmlUrl="https://vinception.fr"/>
             <outline type="rss" text="Brandon Willmott" title="Brandon Willmott" xmlUrl="https://brandonwillmott.com/feed/" htmlUrl="https://brandonwillmott.com"/>
@@ -41,10 +40,10 @@
             <outline type="rss" text="Blog Homelaber Brasil" title="Blog Homelaber Brasil" xmlUrl="https://homelaber.com.br/index.xml" htmlUrl="https://homelaber.com.br/"/>
             <outline type="rss" text="Tim's Tech Thoughts" title="Tim's Tech Thoughts" xmlUrl="https://tsmith.co/feed/" htmlUrl="https://tsmith.co"/>
             <outline type="rss" text="Hazenet.dk" title="Hazenet.dk" xmlUrl="http://hazenet.dk/feed/" htmlUrl="https://hazenet.dk"/>
+            <outline type="rss" text="KorP`s blog" title="KorP`s blog" xmlUrl="http://blog.korphome.ru/feed/" htmlUrl="http://blog.korphome.ru"/>
             <outline type="rss" text="El Blog de Jorge de la Cruz" title="El Blog de Jorge de la Cruz" xmlUrl="https://www.jorgedelacruz.es/feed/" htmlUrl="https://www.jorgedelacruz.es"/>
             <outline type="rss" text="Original Network | IT Blog" title="Original Network | IT Blog" xmlUrl="https://original-network.com/feed/" htmlUrl="https://original-network.com"/>
             <outline type="rss" text="Posts on vNinja.net" title="Posts on vNinja.net" xmlUrl="https://vninja.net/post/index.xml" htmlUrl="https://vninja.net/post/"/>
-            <outline type="rss" text="" title="" xmlUrl="https://www.computerworld.co.uk/home-1?format=rss"/>
             <outline type="rss" text="Software defined blogging" title="Software defined blogging" xmlUrl="http://blog.oli.is/feed/" htmlUrl="http://blog.oli.is"/>
             <outline type="rss" text="ProVirtualzone – Virtual Infrastructures" title="ProVirtualzone – Virtual Infrastructures" xmlUrl="https://www.provirtualzone.com/feed/" htmlUrl="https://www.provirtualzone.com"/>
             <outline type="rss" text="Julien Mousqueton" title="Julien Mousqueton" xmlUrl="https://www.julienmousqueton.fr/rss/" htmlUrl="https://www.julienmousqueton.fr/"/>
